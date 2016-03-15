@@ -14,6 +14,7 @@ It also provides a visualization tool to make things even easier.
 - Visualization tool
 
 ### Future plans
+- Mobile support (iOS, Android ...)
 - Ability to configure the data displayed on the visualization tool.
 - Ability to Import files (graphml, graphson, etc.)
 - Support Titan graphs
