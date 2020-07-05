@@ -1,5 +1,6 @@
 # GremlinBin
 **PROJECT NOT CURRENTLY ACTIVE.**
+
 This github repo is a placeholder for all the issues and information pertaining to the former website ~~www.gremlinbin.com~~ . GremlinBin is a website that allows you to run gremlin queries against test graphs; then save them to share them with the community. Think of it as a pastebin/jsfiddle for gremlin queries.
 
 It also provides a visualization tool to make things even easier.
